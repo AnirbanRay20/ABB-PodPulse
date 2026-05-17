@@ -1,7 +1,7 @@
-# ABB-OLYMPUS
+# ABB-PodPulse
 
 ## Overview
-ABB-OLYMPUS is an AI-driven, real-time observability and orchestration platform designed for single-node Kubernetes clusters. It leverages multi-agent systems to analyze cluster metrics and provide actionable insights.
+ABB-PodPulse is an AI-driven, real-time observability and orchestration platform designed for single-node Kubernetes clusters. It leverages multi-agent systems to analyze cluster metrics and provide actionable insights.
 
 ## Project Structure
 - `frontend/`: React-based dashboard for visualizing metrics, anomaly timelines, and AI insights.
