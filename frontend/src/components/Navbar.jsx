@@ -24,7 +24,7 @@ export default function Navbar({ anomCount }) {
             return <line key={i} x1={x1} y1={y1} x2={x2} y2={y2} stroke="#63d2ff" strokeWidth="1"/>;
           })}
         </svg>
-        <span className="brand-name">ABB<span className="brand-ai"> Creator</span></span>
+        <span className="brand-name">ABB<span className="brand-ai"> PodPulse</span></span>
       </div>
 
       {/* Cluster info */}
