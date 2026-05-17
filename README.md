@@ -36,3 +36,10 @@ ABB-OLYMPUS is an AI-driven, real-time observability and orchestration platform 
 - **Frontend**: React 18, Vite, Vanilla CSS.
 - **Monitoring**: Kubernetes Metrics API integration.
 - **Aesthetics**: Premium dark mode UI with modern typography and smooth transitions.
+
+## Author
+Ankan Ghosh
+Anirban Ray
+Anusmita Ray Chaudhuri
+Mehali Basu
+Abir Praamanick
