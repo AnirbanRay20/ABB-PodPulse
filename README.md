@@ -38,8 +38,8 @@ ABB-OLYMPUS is an AI-driven, real-time observability and orchestration platform 
 - **Aesthetics**: Premium dark mode UI with modern typography and smooth transitions.
 
 ## Author
-Ankan Ghosh
-Anirban Ray
-Anusmita Ray Chaudhuri
-Mehali Basu
-Abir Praamanick
+- Ankan Ghosh
+- Anirban Ray
+- Anusmita Ray Chaudhuri
+- Mehali Basu
+- Abir Praamanick
